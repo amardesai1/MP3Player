@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MP3Player</string>
+    <string name="playtext">Play</string>
+    <string name="pausetext">Pause</string>
+    <string name="stoptext">Stop</string>
+    <string name="channel_name">MP3Service</string>
+    <string name="channel_description">Display notification for MP3 service</string>
+</resources>
